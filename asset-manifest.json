@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sandynevo.github.io/csb-88lq5/static/css/main.12da3a2f.chunk.css",
+    "main.js": "https://sandynevo.github.io/csb-88lq5/static/js/main.3678ecf1.chunk.js",
+    "main.js.map": "https://sandynevo.github.io/csb-88lq5/static/js/main.3678ecf1.chunk.js.map",
+    "runtime-main.js": "https://sandynevo.github.io/csb-88lq5/static/js/runtime-main.df63d263.js",
+    "runtime-main.js.map": "https://sandynevo.github.io/csb-88lq5/static/js/runtime-main.df63d263.js.map",
+    "static/js/2.0499bd67.chunk.js": "https://sandynevo.github.io/csb-88lq5/static/js/2.0499bd67.chunk.js",
+    "static/js/2.0499bd67.chunk.js.map": "https://sandynevo.github.io/csb-88lq5/static/js/2.0499bd67.chunk.js.map",
+    "index.html": "https://sandynevo.github.io/csb-88lq5/index.html",
+    "static/css/main.12da3a2f.chunk.css.map": "https://sandynevo.github.io/csb-88lq5/static/css/main.12da3a2f.chunk.css.map",
+    "static/js/2.0499bd67.chunk.js.LICENSE.txt": "https://sandynevo.github.io/csb-88lq5/static/js/2.0499bd67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df63d263.js",
+    "static/js/2.0499bd67.chunk.js",
+    "static/css/main.12da3a2f.chunk.css",
+    "static/js/main.3678ecf1.chunk.js"
+  ]
+}
